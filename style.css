@@ -28,11 +28,11 @@
     transform: rotateX(0deg);
   }
   .image.first{
-    background-image: url("https://c1.staticflickr.com/1/343/31652757460_b2b5794a51_n.jpg");
+    background-image: url("https://placeimg.com/640/480/any");
   }
    
   .image.second{
-    background-image: url("https://c2.staticflickr.com/2/1506/25121644830_2d768ef51a_n.jpg");
+    background-image: url("https://placeimg.com/640/480/any");
   }
   .screen{
     background-color: rgba(0, 0, 0, 0.22);
